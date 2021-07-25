@@ -1,2 +1,2 @@
 # Abruptly-Goblins
-Codecademy Abruptly Goblins Planner
+The 'Abruptly Goblins' off-platform project from Codecademy.
